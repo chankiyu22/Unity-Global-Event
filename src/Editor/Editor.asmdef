@@ -1,0 +1,16 @@
+{
+    "name": "Chankiyu22.UnityGlobalEvent.Editor",
+    "references": [
+        "GlobalEvent"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
